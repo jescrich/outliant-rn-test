@@ -1,5 +1,21 @@
 # Outliant React Native Test
 
+### Author
+
+@jescrich
+
+### Preview 
+![Sample](https://github.com/jescrich/outliant-rn-test/blob/main/sample.gif)
+
+### Assumptions
+
+- It uses stylesheets per component but could be changed by a themed context.
+- It uses a very simple redux implementation
+- It uses a very simple paged entity state.
+- Unit tests are not included as a part of this example.
+
+### Description
+
 Hey! We're really excited that you've made it this far in our interview process and look forward to getting to know you better.
 
 The purpose of this test is to see how you solve problems and to make sure that you follow our linting rules as well as best practices.

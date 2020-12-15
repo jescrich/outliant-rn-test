@@ -5,7 +5,8 @@
 @jescrich
 
 ### Preview 
-![Sample](https://github.com/jescrich/outliant-rn-test/blob/main/sample.gif)
+
+<img src="https://github.com/jescrich/outliant-rn-test/blob/main/sample.gif" width="600">
 
 ### Assumptions
 

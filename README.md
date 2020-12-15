@@ -1,3 +1,5 @@
+![Run lint](https://github.com/jescrich/outliant-rn-test/workflows/Run%20lint/badge.svg)
+
 # Outliant React Native Test
 
 ### Author

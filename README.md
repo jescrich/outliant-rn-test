@@ -1,5 +1,7 @@
 ![Run lint](https://github.com/jescrich/outliant-rn-test/workflows/Run%20lint/badge.svg)
 
+![Android CI](https://github.com/jescrich/outliant-rn-test/workflows/Android%20CI/badge.svg)
+
 # Outliant React Native Test
 
 ### Author
